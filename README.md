@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sivasthigan Santhirarajah
-- 👀 I’m interested in Artificial intelligence, Machine vision and Signal processing
+- 👀 I’m interested in Artificial intelligence, Computer vision and Machine Learning
 - 🌱 I’m currently an Electrical and Electronic Engineering(EEE) undergraduate at University of Peradeniya.
-- 💞️ I’m looking to collaborate on Digital System design ,IoT, Embedded systems
+- 💞️ I’m looking to collaborate on FPGA design ,IoT, Embedded systems
 - 📫 How to reach me https://www.linkedin.com/in/santhirarajah-sivasthigan-185276217/
 
 <!---
